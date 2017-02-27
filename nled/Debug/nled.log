@@ -1,0 +1,11 @@
+﻿  ww_serial.cc
+  win.cc
+  unix.cc
+  list_ports_win.cc
+  list_ports_osx.cc
+  list_ports_linux.cc
+  nleddevice.cpp
+  nled.cpp
+  Generating Code...
+nleddevice.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  nled.vcxproj -> C:\naivi\code\ofapps\dudok\Debug\nled.lib

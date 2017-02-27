@@ -1,0 +1,9 @@
+﻿  nled.cpp
+  nleddevice.cpp
+  list_ports_linux.cc
+  list_ports_osx.cc
+  list_ports_win.cc
+  unix.cc
+  win.cc
+  ww_serial.cc
+  nled.vcxproj -> C:\naivi\code\ofapps\dudok\Release\nled.lib
